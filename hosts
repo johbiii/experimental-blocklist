@@ -1,0 +1,28 @@
+## Windows endpoints
+# https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-21h1-non-enterprise-editions
+# Various Microsoft services
+0.0.0.0 bing.com
+# Cortana and Live Tiles
+0.0.0.0 fp.msedge.net
+0.0.0.0 k-ring.msedge.net
+0.0.0.0 b-ring.msedge.net
+# Device Directory Service
+0.0.0.0 cs.dds.microsoft.com
+# Retrieves device metadata
+0.0.0.0 dmd.metaservices.microsoft.com
+# Diagnostic data
+0.0.0.0 v10.events.data.microsoft.com
+# Windows Error Reporting
+0.0.0.0 watson.telemetry.microsoft.com
+# Microsoft Store analytics
+0.0.0.0 manage.devcenter.microsoft.com
+# Location data
+0.0.0.0 inference.location.live.net
+# Windows spotlight (may break daily lockscreen wallpapers)
+0.0.0.0 arc.msn.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 mucp.api.account.microsoft.com
+# Xbox Live
+0.0.0.0 dlassets-ssl.xboxlive.com
+0.0.0.0 da.xboxservices.com
+0.0.0.0 www.xboxab.com
